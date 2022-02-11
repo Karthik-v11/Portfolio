@@ -1,0 +1,46 @@
+.projects {
+  background-color: rgb(13, 32, 32);
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+  padding-top: 18%;
+}
+
+.heading {
+  padding: 0px;
+  width: 40%;
+  margin: 0px;
+  margin-left: 13rem;
+  margin-bottom: 2rem;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 2rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  padding: 0px;
+  width: 40%;
+  margin: 0px;
+  margin-left: 13rem;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 2rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+.project {
+  padding: 0px;
+  width: 40%;
+  margin: 0px;
+  margin-left: 13rem;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 2rem;
+  color: rgb(48, 149, 167);
+  display: flex;
+  align-items: center;
+}
